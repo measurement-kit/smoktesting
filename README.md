@@ -2,6 +2,10 @@
 
 This repository contains Measurement Kit (mobile) smoke testing scripts.
 
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️: We've archived this repository, as it seems we now have good
+enough code for running tests on simulators and/or devices directly
+from Xcode and Android studio. So, this repo becomes much less needed.
+
 ## macOS instructions
 
 ### Install Android binaries
